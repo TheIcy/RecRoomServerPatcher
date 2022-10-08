@@ -1,12 +1,10 @@
 [
    {
-      "Index":"0",
       "PUNOffset":"1",
       "VoiceOffset":"2",
       "FriendlyName":"Test"
    },
    {
-      "Index":"1",
       "PUNOffset":"1",
       "VoiceOffset":"2",
       "FriendlyName":"Test 2"
