@@ -3,5 +3,10 @@
       "PUNOffset":"1",
       "VoiceOffset":"2",
       "FriendlyName":"Test"
+   },
+   {
+      "PUNOffset":"1",
+      "VoiceOffset":"2",
+      "FriendlyName":"Test 2"
    }
 ]
